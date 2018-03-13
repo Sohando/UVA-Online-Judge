@@ -12,6 +12,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________
 
 [11847 - Cut the Silver Bar](https://github.com/Sohando/UVA-Online-Judge/blob/master/11847%20-%20Cut%20the%20Silver%20Bar.cpp)
+[11556 - Best Compression Ever](https://github.com/Sohando/UVA-Online-Judge/blob/master/11556%20-%20Best%20Compression%20Ever.cpp)
 
 
                                                      Prime Number
