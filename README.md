@@ -5,6 +5,8 @@ ________________________________________________________________________________
 
 [1585 - Score](https://github.com/Sohando/UVA-Online-Judge/blob/master/1585%20-%20Score.cpp)
 
+[12992 - Huatuo's Medicine](https://github.com/Sohando/UVA-Online-Judge/blob/master/12992%20-%20Huatuo's%20Medicine.cpp)
+
 
 
                                                     Number Conversion
