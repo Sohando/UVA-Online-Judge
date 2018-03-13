@@ -5,6 +5,7 @@ ________________________________________________________________________________
 
 [389-Basically Speaking](https://github.com/Sohando/UVA-Online-Judge/blob/master/389%20-%20Basically%20Speaking.cpp)
 
+[446 - Kibbles "n" Bits "n" Bits "n" Bits](https://github.com/Sohando/UVA-Online-Judge/blob/master/446%20-%20Kibbles%20%22n%22%20Bits%20%22n%22%20Bits%20%22n%22%20Bits.cpp)
 
 
 
