@@ -31,6 +31,6 @@ ________________________________________________________________________________
 [10533 - Digit Primes](https://github.com/Sohando/UVA-Online-Judge/blob/master/10533%20-%20Digit%20Primes.cpp)
 
 
-                                                Standard Template Library
+                                              Standard Template Library
 ___________________________________________________________________________________________________________________________________
 [10789 - Prime Frequency](https://github.com/Sohando/UVA-Online-Judge/blob/master/10789%20-%20Prime%20Frequency.cpp)
