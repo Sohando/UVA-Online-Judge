@@ -8,6 +8,12 @@ ________________________________________________________________________________
 [12992 - Huatuo's Medicine](https://github.com/Sohando/UVA-Online-Judge/blob/master/12992%20-%20Huatuo's%20Medicine.cpp)
 
 
+                                                    Easy To Implement
+_________________________________________________________________________________________________________________________________
+
+[11292 - Dragon of Loowater](https://github.com/Sohando/UVA-Online-Judge/blob/master/11292%20-%20Dragon%20of%20Loowater.cpp)
+
+
 
                                                     Number Conversion
 __________________________________________________________________________________________________________________________________
