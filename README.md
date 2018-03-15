@@ -1,6 +1,6 @@
 # UVA-Online-Judge
 
-                                                    Easiest Problems
+                                                   Easiest Problems
 __________________________________________________________________________________________________________________________________
 
 [1585 - Score](https://github.com/Sohando/UVA-Online-Judge/blob/master/1585%20-%20Score.cpp)
@@ -8,14 +8,14 @@ ________________________________________________________________________________
 [12992 - Huatuo's Medicine](https://github.com/Sohando/UVA-Online-Judge/blob/master/12992%20-%20Huatuo's%20Medicine.cpp)
 
 
-                                                    Easy To Implement
+                                                  Easy To Implement
 _________________________________________________________________________________________________________________________________
 
 [11292 - Dragon of Loowater](https://github.com/Sohando/UVA-Online-Judge/blob/master/11292%20-%20Dragon%20of%20Loowater.cpp)
 
 
 
-                                                    Number Conversion
+                                                   Number Conversion
 __________________________________________________________________________________________________________________________________
 
 [389-Basically Speaking](https://github.com/Sohando/UVA-Online-Judge/blob/master/389%20-%20Basically%20Speaking.cpp)
