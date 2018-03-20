@@ -24,6 +24,11 @@ ________________________________________________________________________________
 
 [11292 - Dragon of Loowater](https://github.com/Sohando/UVA-Online-Judge/blob/master/11292%20-%20Dragon%20of%20Loowater.cpp)
 
+                                                      Medium
+__________________________________________________________________________________________________________________________________
+
+[119 - Greedy Gift Givers](https://github.com/Sohando/UVA-Online-Judge/blob/master/119%20-%20Greedy%20Gift%20Givers.cpp)
+
 
 
                                                    Number Conversion
