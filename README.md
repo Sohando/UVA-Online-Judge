@@ -2,6 +2,8 @@
 
                                                  Super Easy Problems
 _________________________________________________________________________________________________________________________________
+[13034 - Solve Everything :-)](https://github.com/Sohando/UVA-Online-Judge/blob/master/13034%20-%20Solve%20Everything.cpp)
+
 [272 - TEX Quotes](https://github.com/Sohando/UVA-Online-Judge/blob/master/272%20-%20TEX%20Quotes.cpp)
 
 [1585 - Score](https://github.com/Sohando/UVA-Online-Judge/blob/master/1585%20-%20Score.cpp)
@@ -11,8 +13,6 @@ ________________________________________________________________________________
 [12403 - Save Setu](https://github.com/Sohando/UVA-Online-Judge/blob/master/12403%20-%20Save%20Setu.cpp)
 
 [12372 - Packing for Holiday](https://github.com/Sohando/UVA-Online-Judge/blob/master/12372%20-%20Packing%20for%20Holiday.cpp)
-
-[13034 - Solve Everything :-)](https://github.com/Sohando/UVA-Online-Judge/blob/master/13034%20-%20Solve%20Everything%20:-).cpp)
 
                                                       Easy
 _________________________________________________________________________________________________________________________________
