@@ -18,6 +18,8 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________
 [621 - Secret Research](https://github.com/Sohando/UVA-Online-Judge/blob/master/621%20-%20Secret%20Research.cpp)
 
+[12709 - Falling Ants](https://github.com/Sohando/UVA-Online-Judge/blob/master/12709%20-%20Falling%20Ants.cpp)
+
 
                                                   Easy To Implement
 _________________________________________________________________________________________________________________________________
@@ -28,9 +30,6 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________
 
 [119 - Greedy Gift Givers](https://github.com/Sohando/UVA-Online-Judge/blob/master/119%20-%20Greedy%20Gift%20Givers.cpp)
-
-[12709 - Falling Ants](https://github.com/Sohando/UVA-Online-Judge/blob/master/12709%20-%20Falling%20Ants.cpp)
-
 
 
                                                    Number Conversion
