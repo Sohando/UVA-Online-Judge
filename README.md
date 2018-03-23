@@ -62,4 +62,6 @@ ________________________________________________________________________________
 
 [12592 - Slogan Learning of Princess](https://github.com/Sohando/UVA-Online-Judge/blob/master/12592%20-%20Slogan%20Learning%20of%20Princess.cpp)
 
+[10887 - Concatenation of Languages](https://github.com/Sohando/UVA-Online-Judge/blob/master/10887%20-%20Concatenation%20of%20Languages.cpp)
+
 
