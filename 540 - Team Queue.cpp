@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-	//freopen("input.txt","r",stdin);
 
     long long int t,t_n,n,number,cases=1;
     string s;
@@ -13,7 +12,6 @@ int main()
        queue <long long int> T_Q;
        queue <long long int> Q[t+1];
        map < long long int,long long int > ma;
-       map < long long int,bool> ba;
 
        long long int team = 0;
 
