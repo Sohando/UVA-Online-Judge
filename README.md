@@ -62,7 +62,11 @@ ________________________________________________________________________________
                                               Standard Template Library
 ___________________________________________________________________________________________________________________________________
 [10789 - Prime Frequency](https://github.com/Sohando/UVA-Online-Judge/blob/master/10789%20-%20Prime%20Frequency.cpp)
+
 [10282 - Babelfish](https://github.com/Sohando/UVA-Online-Judge/blob/master/10282%20-%20Babelfish.cpp)
+
 [12592 - Slogan Learning of Princess](https://github.com/Sohando/UVA-Online-Judge/blob/master/12592%20-%20Slogan%20Learning%20of%20Princess.cpp)
+
 [10887 - Concatenation of Languages](https://github.com/Sohando/UVA-Online-Judge/blob/master/10887%20-%20Concatenation%20of%20Languages.cpp)
+
 [540 - Team Queue](https://github.com/Sohando/UVA-Online-Judge/blob/master/540%20-%20Team%20Queue.cpp)
