@@ -70,3 +70,5 @@ ________________________________________________________________________________
 [10887 - Concatenation of Languages](https://github.com/Sohando/UVA-Online-Judge/blob/master/10887%20-%20Concatenation%20of%20Languages.cpp)
 
 [540 - Team Queue](https://github.com/Sohando/UVA-Online-Judge/blob/master/540%20-%20Team%20Queue.cpp)
+
+[11286 - Conformity](https://github.com/Sohando/UVA-Online-Judge/blob/master/11286%20-%20Conformity.cpp)
