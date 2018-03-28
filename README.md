@@ -20,6 +20,8 @@ ________________________________________________________________________________
 
 [12709 - Falling Ants](https://github.com/Sohando/UVA-Online-Judge/blob/master/12709%20-%20Falling%20Ants.cpp)
 
+[12543 - Longest Word](https://github.com/Sohando/UVA-Online-Judge/blob/master/12543%20-%20Longest%20Word.cpp)
+
 
                                                   Easy To Implement
 _________________________________________________________________________________________________________________________________
