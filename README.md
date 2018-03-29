@@ -14,6 +14,8 @@ ________________________________________________________________________________
 
 [12372 - Packing for Holiday](https://github.com/Sohando/UVA-Online-Judge/blob/master/12372%20-%20Packing%20for%20Holiday.cpp)
 
+[11559 - Event Planning](https://github.com/Sohando/UVA-Online-Judge/blob/master/11559%20-%20Event%20Planning.cpp)
+
                                                       Easy
 _________________________________________________________________________________________________________________________________
 [621 - Secret Research](https://github.com/Sohando/UVA-Online-Judge/blob/master/621%20-%20Secret%20Research.cpp)
