@@ -14,7 +14,6 @@ ________________________________________________________________________________
 
 [12372 - Packing for Holiday](https://github.com/Sohando/UVA-Online-Judge/blob/master/12372%20-%20Packing%20for%20Holiday.cpp)
 
-[11559 - Event Planning](https://github.com/Sohando/UVA-Online-Judge/blob/master/11559%20-%20Event%20Planning.cpp)
 
                                                       Easy
 _________________________________________________________________________________________________________________________________
@@ -23,6 +22,9 @@ ________________________________________________________________________________
 [12709 - Falling Ants](https://github.com/Sohando/UVA-Online-Judge/blob/master/12709%20-%20Falling%20Ants.cpp)
 
 [12543 - Longest Word](https://github.com/Sohando/UVA-Online-Judge/blob/master/12543%20-%20Longest%20Word.cpp)
+
+[11559 - Event Planning](https://github.com/Sohando/UVA-Online-Judge/blob/master/11559%20-%20Event%20Planning.cpp)
+
 
 
                                                   Easy To Implement
