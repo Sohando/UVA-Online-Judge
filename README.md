@@ -25,6 +25,8 @@ ________________________________________________________________________________
 
 [11559 - Event Planning](https://github.com/Sohando/UVA-Online-Judge/blob/master/11559%20-%20Event%20Planning.cpp)
 
+[11428 - Cubes](https://github.com/Sohando/UVA-Online-Judge/blob/master/11428%20-%20Cubes.cpp)
+
 
 
                                                   Easy To Implement
