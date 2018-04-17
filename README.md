@@ -86,3 +86,8 @@ ________________________________________________________________________________
 [11286 - Conformity](https://github.com/Sohando/UVA-Online-Judge/blob/master/11286%20-%20Conformity.cpp)
 
 [455 - Periodic Strings](https://github.com/Sohando/UVA-Online-Judge/blob/master/455%20-%20Periodic%20Strings.cpp)
+
+                                                Graph Theory
+____________________________________________________________________________________________________________________________
+
+[10959 - The Party, Part I](https://github.com/Sohando/UVA-Online-Judge/blob/master/10959%20-%20The%20Party%2C%20Part%20I.cpp)
