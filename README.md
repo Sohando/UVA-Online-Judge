@@ -96,3 +96,5 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________
 
 [10959 - The Party, Part I](https://github.com/Sohando/UVA-Online-Judge/blob/master/10959%20-%20The%20Party%2C%20Part%20I.cpp)
+
+[10004 - Bicoloring](https://github.com/Sohando/UVA-Online-Judge/blob/master/10004%20-%20Bicoloring.cpp)
