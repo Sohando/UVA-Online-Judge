@@ -27,6 +27,8 @@ ________________________________________________________________________________
 
 [11428 - Cubes](https://github.com/Sohando/UVA-Online-Judge/blob/master/11428%20-%20Cubes.cpp)
 
+[146 - ID Codes](https://github.com/Sohando/UVA-Online-Judge/blob/master/146%20-%20ID%20Codes.cpp)
+
 
 
                                                   Easy To Implement
