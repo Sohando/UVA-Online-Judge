@@ -102,3 +102,5 @@ ________________________________________________________________________________
 [572 - Oil Deposits](https://github.com/Sohando/UVA-Online-Judge/blob/master/572%20-%20Oil%20Deposits.cpp)
 
 [459 - Graph Connectivity](https://github.com/Sohando/UVA-Online-Judge/blob/master/459%20-%20Graph%20Connectivity.cpp)
+
+[280 - Vertex](https://github.com/Sohando/UVA-Online-Judge/blob/master/280%20-%20Vertex.cpp)
