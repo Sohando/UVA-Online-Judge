@@ -38,12 +38,9 @@ void bfs()
         stack <string> ss;
         while(parent[de]!="-1") {
             ss.push(de);
+            
             de = parent[de];
-            //ss.push(de);
-
-            //if(parent[de]=="-1") {
             ss.push(de);
-            //}
         }
 
         while(!ss.empty()) {
