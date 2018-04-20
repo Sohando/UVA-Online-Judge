@@ -29,6 +29,8 @@ ________________________________________________________________________________
 
 [146 - ID Codes](https://github.com/Sohando/UVA-Online-Judge/blob/master/146%20-%20ID%20Codes.cpp)
 
+[10098 Generating Fast, Sorted Permutation](https://github.com/Sohando/UVA-Online-Judge/blob/master/10098%20-%20Generating%20Fast.cpp)
+
 
 
                                                   Easy To Implement
