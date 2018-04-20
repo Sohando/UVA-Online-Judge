@@ -108,3 +108,5 @@ ________________________________________________________________________________
 [280 - Vertex](https://github.com/Sohando/UVA-Online-Judge/blob/master/280%20-%20Vertex.cpp)
 
 [924 - Spreading The News](https://github.com/Sohando/UVA-Online-Judge/blob/master/924%20-%20Spreading%20The%20News.cpp)
+
+[762 - We Ship Cheap](https://github.com/Sohando/UVA-Online-Judge/blob/master/762%20-%20We%20Ship%20Cheap.cpp)
