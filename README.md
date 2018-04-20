@@ -106,3 +106,5 @@ ________________________________________________________________________________
 [459 - Graph Connectivity](https://github.com/Sohando/UVA-Online-Judge/blob/master/459%20-%20Graph%20Connectivity.cpp)
 
 [280 - Vertex](https://github.com/Sohando/UVA-Online-Judge/blob/master/280%20-%20Vertex.cpp)
+
+[924 - Spreading The News](https://github.com/Sohando/UVA-Online-Judge/blob/master/924%20-%20Spreading%20The%20News.cpp)
