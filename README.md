@@ -116,3 +116,5 @@ ________________________________________________________________________________
 [627 - The Net](https://github.com/Sohando/UVA-Online-Judge/blob/master/627%20-%20The%20Net.cpp)
 
 [567 - Risk](https://github.com/Sohando/UVA-Online-Judge/blob/master/567%20-%20Risk.cpp)
+
+[10305 - Ordering Tasks](https://github.com/Sohando/UVA-Online-Judge/blob/master/10305%20-%20Ordering%20Tasks.cpp)
