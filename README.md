@@ -74,6 +74,8 @@ ________________________________________________________________________________
 
 [623 - 500!](https://github.com/Sohando/UVA-Online-Judge/blob/master/623%20-%20500!.cpp)
 
+[495 - Fibonacci Freeze](https://github.com/Sohando/UVA-Online-Judge/blob/master/495%20-%20Fibonacci%20Freeze.cpp)
+
 
                                                      Prime Number
 ___________________________________________________________________________________________________________________________________
