@@ -114,3 +114,5 @@ ________________________________________________________________________________
 [762 - We Ship Cheap](https://github.com/Sohando/UVA-Online-Judge/blob/master/762%20-%20We%20Ship%20Cheap.cpp)
 
 [627 - The Net](https://github.com/Sohando/UVA-Online-Judge/blob/master/627%20-%20The%20Net.cpp)
+
+[567 - Risk](https://github.com/Sohando/UVA-Online-Judge/blob/master/567%20-%20Risk.cpp)
