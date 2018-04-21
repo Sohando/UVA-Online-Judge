@@ -99,13 +99,11 @@ ________________________________________________________________________________
                                                 Graph Theory
 ____________________________________________________________________________________________________________________________
 
+# bfs _ easy
+
 [10959 - The Party, Part I](https://github.com/Sohando/UVA-Online-Judge/blob/master/10959%20-%20The%20Party%2C%20Part%20I.cpp)
 
 [10004 - Bicoloring](https://github.com/Sohando/UVA-Online-Judge/blob/master/10004%20-%20Bicoloring.cpp)
-
-[572 - Oil Deposits](https://github.com/Sohando/UVA-Online-Judge/blob/master/572%20-%20Oil%20Deposits.cpp)
-
-[459 - Graph Connectivity](https://github.com/Sohando/UVA-Online-Judge/blob/master/459%20-%20Graph%20Connectivity.cpp)
 
 [280 - Vertex](https://github.com/Sohando/UVA-Online-Judge/blob/master/280%20-%20Vertex.cpp)
 
@@ -116,6 +114,14 @@ ________________________________________________________________________________
 [627 - The Net](https://github.com/Sohando/UVA-Online-Judge/blob/master/627%20-%20The%20Net.cpp)
 
 [567 - Risk](https://github.com/Sohando/UVA-Online-Judge/blob/master/567%20-%20Risk.cpp)
+
+[336 - A Node Too Far](https://github.com/Sohando/UVA-Online-Judge/blob/master/336%20-%20A%20Node%20Too%20Far.cpp)
+
+# dfs _ easy 
+[572 - Oil Deposits](https://github.com/Sohando/UVA-Online-Judge/blob/master/572%20-%20Oil%20Deposits.cpp)
+
+[459 - Graph Connectivity](https://github.com/Sohando/UVA-Online-Judge/blob/master/459%20-%20Graph%20Connectivity.cpp)
+
 
 # topological sort
 [10305 - Ordering Tasks](https://github.com/Sohando/UVA-Online-Judge/blob/master/10305%20-%20Ordering%20Tasks.cpp)
