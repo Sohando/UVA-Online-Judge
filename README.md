@@ -69,6 +69,8 @@ ________________________________________________________________________________
 
 [11388 - GCD LCM](https://github.com/Sohando/UVA-Online-Judge/blob/master/11388%20-%20GCD%20LCM.cpp)
 
+[11827 - Maximum GCD](https://github.com/Sohando/UVA-Online-Judge/blob/master/11827%20-%20Maximum%20GCD.cpp)
+
                                                      Big Integer
 _____________________________________________________________________________________________________________________________
 
