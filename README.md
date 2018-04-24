@@ -50,6 +50,7 @@ ________________________________________________________________________________
 
 [299 - Train Swapping](https://github.com/Sohando/UVA-Online-Judge/blob/master/299%20-%20Train%20Swapping.cpp)
 
+[10474 - Where is the Marble?](https://github.com/Sohando/UVA-Online-Judge/blob/master/10474%20-%20Where%20is%20the%20Marble%3F.cpp)
                                                  Number Conversion
 _________________________________________________________________________________________________________________________________
 
