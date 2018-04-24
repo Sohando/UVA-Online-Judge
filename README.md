@@ -32,16 +32,13 @@ ________________________________________________________________________________
 [10098 Generating Fast, Sorted Permutation](https://github.com/Sohando/UVA-Online-Judge/blob/master/10098%20-%20Generating%20Fast.cpp)
 
 
-
-                                                  Easy To Implement
-_________________________________________________________________________________________________________________________________
-
-[11292 - Dragon of Loowater](https://github.com/Sohando/UVA-Online-Judge/blob/master/11292%20-%20Dragon%20of%20Loowater.cpp)
-
                                                       Medium
 __________________________________________________________________________________________________________________________________
 
 [119 - Greedy Gift Givers](https://github.com/Sohando/UVA-Online-Judge/blob/master/119%20-%20Greedy%20Gift%20Givers.cpp)
+
+[11292 - Dragon of Loowater](https://github.com/Sohando/UVA-Online-Judge/blob/master/11292%20-%20Dragon%20of%20Loowater.cpp)
+
 
                                                      Sorting 
 __________________________________________________________________________________________________________________________________
