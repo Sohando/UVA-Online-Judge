@@ -123,6 +123,7 @@ ________________________________________________________________________________
 
 [455 - Periodic Strings](https://github.com/Sohando/UVA-Online-Judge/blob/master/455%20-%20Periodic%20Strings.cpp)
 
+[10226 - Hardwood Species](https://github.com/Sohando/UVA-Online-Judge/blob/master/10226%20-%20Hardwood%20Species.cpp)
 
 
                                                 Graph Theory
