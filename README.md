@@ -107,6 +107,8 @@ ________________________________________________________________________________
 
 # map 
 
+[10295 - Hay Points](https://github.com/Sohando/UVA-Online-Judge/blob/master/10295%20-%20Hay%20Points.cpp)
+
 [417 - Word Index](https://github.com/Sohando/UVA-Online-Judge/blob/master/417%20-%20Word%20Index.cpp)
 
 [10789 - Prime Frequency](https://github.com/Sohando/UVA-Online-Judge/blob/master/10789%20-%20Prime%20Frequency.cpp)
