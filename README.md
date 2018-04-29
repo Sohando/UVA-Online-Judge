@@ -98,6 +98,17 @@ ________________________________________________________________________________
 
                                               Standard Template Library
 ___________________________________________________________________________________________________________________________________
+
+# queue
+
+[540 - Team Queue](https://github.com/Sohando/UVA-Online-Judge/blob/master/540%20-%20Team%20Queue.cpp)
+
+[11849 - CD](https://github.com/Sohando/UVA-Online-Judge/blob/master/11849%20-%20CD.cpp)
+
+# map 
+
+[417 - Word Index](https://github.com/Sohando/UVA-Online-Judge/blob/master/417%20-%20Word%20Index.cpp)
+
 [10789 - Prime Frequency](https://github.com/Sohando/UVA-Online-Judge/blob/master/10789%20-%20Prime%20Frequency.cpp)
 
 [10282 - Babelfish](https://github.com/Sohando/UVA-Online-Judge/blob/master/10282%20-%20Babelfish.cpp)
@@ -106,13 +117,11 @@ ________________________________________________________________________________
 
 [10887 - Concatenation of Languages](https://github.com/Sohando/UVA-Online-Judge/blob/master/10887%20-%20Concatenation%20of%20Languages.cpp)
 
-[540 - Team Queue](https://github.com/Sohando/UVA-Online-Judge/blob/master/540%20-%20Team%20Queue.cpp)
-
 [11286 - Conformity](https://github.com/Sohando/UVA-Online-Judge/blob/master/11286%20-%20Conformity.cpp)
 
 [455 - Periodic Strings](https://github.com/Sohando/UVA-Online-Judge/blob/master/455%20-%20Periodic%20Strings.cpp)
 
-[11849 - CD](https://github.com/Sohando/UVA-Online-Judge/blob/master/11849%20-%20CD.cpp)
+
 
                                                 Graph Theory
 ____________________________________________________________________________________________________________________________
