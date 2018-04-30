@@ -31,6 +31,8 @@ ________________________________________________________________________________
 
 [10098 Generating Fast, Sorted Permutation](https://github.com/Sohando/UVA-Online-Judge/blob/master/10098%20-%20Generating%20Fast.cpp)
 
+[11565 - Simple Equations](https://github.com/Sohando/UVA-Online-Judge/blob/master/11565%20-%20Simple%20Equations.cpp)
+
 
                                                       Medium
 __________________________________________________________________________________________________________________________________
