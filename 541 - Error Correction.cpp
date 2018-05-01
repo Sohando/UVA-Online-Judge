@@ -34,10 +34,9 @@ int main()
 
         for(int j=0;j<_naf;j++) {
 
-            int i=0,col=0;
-            while(i<_naf) {
+            int col=0;
+            for(int i=0;i<_naf;i++) {
                 col += arr[i][j];
-                i++;
             }
             if(col%2==1) {
                 de.second = j+1;
