@@ -100,6 +100,8 @@ ________________________________________________________________________________
 
 [10394 - Twin Primes](https://github.com/Sohando/UVA-Online-Judge/blob/master/10394%20-%20Twin%20Primes.cpp)
 
+[1210 - Sum of Consecutive Prime Numbers](https://github.com/Sohando/UVA-Online-Judge/blob/master/1210%20-%20Sum%20of%20Consecutive%20Prime%20Numbers.cpp)
+
                                               Standard Template Library
 ___________________________________________________________________________________________________________________________________
 
