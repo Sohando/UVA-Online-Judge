@@ -34,6 +34,7 @@ ________________________________________________________________________________
 
 [11565 - Simple Equations](https://github.com/Sohando/UVA-Online-Judge/blob/master/11565%20-%20Simple%20Equations.cpp)
 
+[541 - Error Correction](https://github.com/Sohando/UVA-Online-Judge/blob/master/541%20-%20Error%20Correction.cpp)
 
                                                       Medium
 __________________________________________________________________________________________________________________________________
