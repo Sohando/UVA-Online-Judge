@@ -109,6 +109,8 @@ ________________________________________________________________________________
 
 [11849 - CD](https://github.com/Sohando/UVA-Online-Judge/blob/master/11849%20-%20CD.cpp)
 
+[12100 - Printer Queue](https://github.com/Sohando/UVA-Online-Judge/blob/master/12100%20-%20Printer%20Queue.cpp)
+
 # map 
 
 [10295 - Hay Points](https://github.com/Sohando/UVA-Online-Judge/blob/master/10295%20-%20Hay%20Points.cpp)
