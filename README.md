@@ -137,6 +137,9 @@ ________________________________________________________________________________
 
                                                 Graph Theory
 ____________________________________________________________________________________________________________________________
+# graph_traversal
+
+[12442 - Forwarding Emails](https://github.com/Sohando/UVA-Online-Judge/blob/master/12442%20-%20Forwarding%20Emails.cpp)
 
 # Unweighted _ Graph_ bfs _ easier
 
