@@ -87,6 +87,10 @@ ________________________________________________________________________________
 
 [900 - Brick Wall Patterns](https://github.com/Sohando/UVA-Online-Judge/blob/master/900%20-%20Brick%20Wall%20Patterns.cpp)
 
+# factorial
+
+[1185 - Big Number](https://github.com/Sohando/UVA-Online-Judge/blob/master/1185%20-%20Big%20Number.cpp)
+
                                                     Big Integer
 _____________________________________________________________________________________________________________________________
 
