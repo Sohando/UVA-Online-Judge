@@ -1,6 +1,4 @@
 
-// A optimised program to find the
-// number of digits in a factorial
 #include <bits/stdc++.h>
 using namespace std;
 
