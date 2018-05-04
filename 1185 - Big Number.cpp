@@ -13,6 +13,11 @@ long long findDigits(int n)
 
 	// Use Kamenetsky formula to calculate
 	// the number of digits
+	
+	// formula is (n/e)^n*sqrt(2*pi*n)
+	// taking log10() we get log10((n/e)^n*sqrt(2*pi*n))
+	// which leads to ((n * log10(n / M_E) + log10(2 * M_PI * n) /2.0));
+	
 	double x = ((n * log10(n / M_E) +
 				log10(2 * M_PI * n) /
 				2.0));
