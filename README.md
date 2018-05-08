@@ -179,6 +179,8 @@ ________________________________________________________________________________
 
 [10986 - Sending email](https://github.com/Sohando/UVA-Online-Judge/blob/master/10986%20-%20Sending%20email.cpp)
 
+[929 - Number Maze](https://github.com/Sohando/UVA-Online-Judge/blob/master/929%20-%20Number%20Maze.cpp)
+
 
 # topological sort
 [10305 - Ordering Tasks](https://github.com/Sohando/UVA-Online-Judge/blob/master/10305%20-%20Ordering%20Tasks.cpp)
