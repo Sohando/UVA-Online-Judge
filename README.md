@@ -175,6 +175,10 @@ ________________________________________________________________________________
 
 [459 - Graph Connectivity](https://github.com/Sohando/UVA-Online-Judge/blob/master/459%20-%20Graph%20Connectivity.cpp)
 
+# dijkstra
+
+[10986 - Sending email](https://github.com/Sohando/UVA-Online-Judge/blob/master/10986%20-%20Sending%20email.cpp)
+
 
 # topological sort
 [10305 - Ordering Tasks](https://github.com/Sohando/UVA-Online-Judge/blob/master/10305%20-%20Ordering%20Tasks.cpp)
