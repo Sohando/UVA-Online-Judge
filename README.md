@@ -49,6 +49,8 @@ ________________________________________________________________________________
 
 [11389 - The Bus Driver Problem](https://github.com/Sohando/UVA-Online-Judge/blob/master/11389%20-%20The%20Bus%20Driver%20Problem.cpp)
 
+[11369 - Shopaholic](https://github.com/Sohando/UVA-Online-Judge/blob/master/11369%20-%20Shopaholic.cpp)
+
                                                      Sorting 
 __________________________________________________________________________________________________________________________________
 
