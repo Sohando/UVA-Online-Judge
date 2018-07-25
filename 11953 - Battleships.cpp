@@ -84,20 +84,16 @@ int main(){
         int c=0;
         for(int i=0;i<n;i++) {
             for(int j=0;j<n;j++) {
+                
                 if(Array[i][j]=='x') {
-
-                    //cout << "JJJJ " << endl;
-                    //hit = false;
                     dfs_hori(i,j,n);
-
+                    
                     if(flag==false) {
                         dfs_verti(i,j,n);
                         flag=false;
                     }
-
-                    //if(hit==false) {
                     c++;
-                    //}
+                    
                 }
             }
         }
