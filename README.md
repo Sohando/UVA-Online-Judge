@@ -81,6 +81,10 @@ ________________________________________________________________________________
 
 [11556 - Best Compression Ever](https://github.com/Sohando/UVA-Online-Judge/blob/master/11556%20-%20Best%20Compression%20Ever.cpp)
 
+                                                  Recursion, Backtracking
+___________________________________________________________________________________________________________________________________
+[10776 - Determine The Combination](https://github.com/Sohando/UVA-Online-Judge/blob/master/10776%20-%20Determine%20The%20Combination.cpp)
+
                                                    Number Theory
 __________________________________________________________________________________________________________________________________
 
