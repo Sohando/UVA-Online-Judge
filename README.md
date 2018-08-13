@@ -72,7 +72,9 @@ ________________________________________________________________________________
 
 [446 - Kibbles "n" Bits "n" Bits "n" Bits](https://github.com/Sohando/UVA-Online-Judge/blob/master/446%20-%20Kibbles%20%22n%22%20Bits%20%22n%22%20Bits%20%22n%22%20Bits.cpp)
 
-
+                                                  String Operations
+___________________________________________________________________________________________________________________________________
+[10862 - Connect the Cable Wires](https://github.com/Sohando/UVA-Online-Judge/blob/master/10862%20-%20Connect%20the%20Cable%20Wires.cpp)
 
                                                     Basic Math
 ___________________________________________________________________________________________________________________________________
