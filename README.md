@@ -126,6 +126,8 @@ ________________________________________________________________________________
 
 [1210 - Sum of Consecutive Prime Numbers](https://github.com/Sohando/UVA-Online-Judge/blob/master/1210%20-%20Sum%20of%20Consecutive%20Prime%20Numbers.cpp)
 
+[10948 - The primary problem](https://github.com/Sohando/UVA-Online-Judge/blob/master/10948%20-%20The%20primary%20problem.cpp)
+
                                               Standard Template Library
 ___________________________________________________________________________________________________________________________________
 
