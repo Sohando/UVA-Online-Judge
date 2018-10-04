@@ -52,7 +52,9 @@ ________________________________________________________________________________
 
 # 1 Array
 
-[ 256 - Quirksome Squares](https://github.com/Sohando/UVA-Online-Judge/blob/master/256%20-%20Quirksome%20Squares.cpp)
+[256 - Quirksome Squares](https://github.com/Sohando/UVA-Online-Judge/blob/master/256%20-%20Quirksome%20Squares.cpp)
+
+[10976 - Fractions Again?!](https://github.com/Sohando/UVA-Online-Judge/blob/master/10976%20-%20Fractions%20Again%3F!.cpp)
 
 # 2 Array
 
