@@ -50,11 +50,11 @@ ________________________________________________________________________________
                                                   Complete Search
 _________________________________________________________________________________________________________________________________
 
-#1 Array
+# 1 Array
 
 [ 256 - Quirksome Squares](https://github.com/Sohando/UVA-Online-Judge/blob/master/256%20-%20Quirksome%20Squares.cpp)
 
-#2 Array
+# 2 Array
 
 [725 - Division](https://github.com/Sohando/UVA-Online-Judge/blob/master/725%20-%20Division.cpp)
 
