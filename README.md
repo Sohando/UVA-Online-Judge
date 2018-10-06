@@ -40,6 +40,7 @@ ________________________________________________________________________________
 
 [13082 - High School Assembly](https://github.com/Sohando/UVA-Online-Judge/blob/master/13082%20-%20High%20School%20Assembly.cpp)
 
+[11344 - The Huge One](https://github.com/Sohando/UVA-Online-Judge/blob/master/11344%20-%20The%20Huge%20One.cpp)
                                                       Medium
 __________________________________________________________________________________________________________________________________
 
