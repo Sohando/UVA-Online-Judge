@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<string.h>
-char Array[100000007];
+char Array[1007];
 
 int bhagsesh(int val) {
 	int bs = 0;
