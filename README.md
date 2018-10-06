@@ -56,6 +56,8 @@ ________________________________________________________________________________
 
 [10976 - Fractions Again?!](https://github.com/Sohando/UVA-Online-Judge/blob/master/10976%20-%20Fractions%20Again%3F!.cpp)
 
+[11078 - Open Credit System](https://github.com/Sohando/UVA-Online-Judge/blob/master/11078%20-%20Open%20Credit%20System.cpp)
+
 # 2 Array
 
 [725 - Division](https://github.com/Sohando/UVA-Online-Judge/blob/master/725%20-%20Division.cpp)
