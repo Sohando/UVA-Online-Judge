@@ -16,6 +16,8 @@ ________________________________________________________________________________
 
 [12798 - Handball](https://github.com/Sohando/UVA-Online-Judge/blob/master/12798%20-%20Handball.cpp)
 
+[12068 - Harmonic Mean](https://github.com/Sohando/UVA-Online-Judge/blob/master/12068%20-%20Harmonic%20Mean.cpp)
+
                                                       Easy
 _________________________________________________________________________________________________________________________________
 [621 - Secret Research](https://github.com/Sohando/UVA-Online-Judge/blob/master/621%20-%20Secret%20Research.cpp)
