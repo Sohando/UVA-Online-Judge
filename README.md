@@ -36,6 +36,8 @@ ________________________________________________________________________________
 
 [541 - Error Correction](https://github.com/Sohando/UVA-Online-Judge/blob/master/541%20-%20Error%20Correction.cpp)
 
+[13082 - High School Assembly](https://github.com/Sohando/UVA-Online-Judge/blob/master/13082%20-%20High%20School%20Assembly.cpp)
+
                                                       Medium
 __________________________________________________________________________________________________________________________________
 
