@@ -152,6 +152,8 @@ ________________________________________________________________________________
 
 [10168 - Summation of Four Primes](https://github.com/Sohando/UVA-Online-Judge/blob/master/10168%20-%20Summation%20of%20Four%20Primes.cpp)
 
+[10699 Count the factors](https://github.com/Sohando/UVA-Online-Judge/blob/master/10699%20Count%20the%20factors.cpp)
+
 
                                               Standard Template Library
 ___________________________________________________________________________________________________________________________________
