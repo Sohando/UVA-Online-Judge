@@ -69,6 +69,8 @@ ________________________________________________________________________________
 
 [725 - Division](https://github.com/Sohando/UVA-Online-Judge/blob/master/725%20-%20Division.cpp)
 
+[10487 - Closest Sums](https://github.com/Sohando/UVA-Online-Judge/blob/master/10487%20-%20Closest%20Sums.cpp)
+
 
                                                      G R E E D Y
 __________________________________________________________________________________________________________________________________
