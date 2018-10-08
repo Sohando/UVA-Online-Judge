@@ -71,6 +71,9 @@ ________________________________________________________________________________
 
 [10487 - Closest Sums](https://github.com/Sohando/UVA-Online-Judge/blob/master/10487%20-%20Closest%20Sums.cpp)
 
+# 3 | more
+
+[441 - Lotto](https://github.com/Sohando/UVA-Online-Judge/blob/master/441%20-%20Lotto.cpp)
 
                                                      G R E E D Y
 __________________________________________________________________________________________________________________________________
