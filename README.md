@@ -193,6 +193,8 @@ ________________________________________________________________________________
 
 [10226 - Hardwood Species](https://github.com/Sohando/UVA-Online-Judge/blob/master/10226%20-%20Hardwood%20Species.cpp)
 
+[12049 - Just Prune The List](https://github.com/Sohando/UVA-Online-Judge/blob/master/12049%20-%20Just%20Prune%20The%20List.cpp)
+
 
                                                 Graph Theory
 ____________________________________________________________________________________________________________________________
