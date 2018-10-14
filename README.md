@@ -141,6 +141,8 @@ ________________________________________________________________________________
 
 [568 - Just the Facts](https://github.com/Sohando/UVA-Online-Judge/blob/master/568%20-%20Just%20the%20Facts.cpp)
 
+[568 - Just the Facts](https://github.com/Sohando/UVA-Online-Judge/blob/master/568%20-%20Just%20the%20Facts(%20l%20).cpp)
+
                                                     Big Integer
 _____________________________________________________________________________________________________________________________
 
