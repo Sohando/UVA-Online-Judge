@@ -139,6 +139,8 @@ ________________________________________________________________________________
 
 [1185 - Big Number](https://github.com/Sohando/UVA-Online-Judge/blob/master/1185%20-%20Big%20Number.cpp)
 
+[568 - Just the Facts](https://github.com/Sohando/UVA-Online-Judge/blob/master/568%20-%20Just%20the%20Facts.cpp)
+
                                                     Big Integer
 _____________________________________________________________________________________________________________________________
 
