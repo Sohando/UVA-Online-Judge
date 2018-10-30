@@ -150,6 +150,11 @@ ________________________________________________________________________________
 
 [991 - Safe Salutations](https://github.com/Sohando/UVA-Online-Judge/blob/master/991%20-%20Safe%20Salutations.cpp)
 
+# Big Mod
+
+[1230 - MODEX](https://github.com/Sohando/UVA-Online-Judge/blob/master/1230%20-%20MODEX.cpp)
+
+
                                                     Big Integer
 _____________________________________________________________________________________________________________________________
 
