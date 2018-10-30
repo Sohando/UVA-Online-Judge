@@ -272,3 +272,10 @@ ________________________________________________________________________________
 
 # topological sort
 [10305 - Ordering Tasks](https://github.com/Sohando/UVA-Online-Judge/blob/master/10305%20-%20Ordering%20Tasks.cpp)
+
+                                                DATA  STRUCTURE
+_______________________________________________________________________________________________________________________________
+
+# Square Root Decomposition
+
+[12086 - Potentiometers](https://github.com/Sohando/UVA-Online-Judge/blob/master/12086%20-%20Potentiometers.cpp)
