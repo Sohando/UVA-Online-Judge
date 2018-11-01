@@ -284,3 +284,7 @@ ________________________________________________________________________________
 # Square Root Decomposition
 
 [12086 - Potentiometers](https://github.com/Sohando/UVA-Online-Judge/blob/master/12086%20-%20Potentiometers.cpp)
+
+# Fenwick Tree
+
+[12086 - Potentiometers](https://github.com/Sohando/UVA-Online-Judge/blob/master/12086%20-%20Potentiometers(BIT).cpp)
