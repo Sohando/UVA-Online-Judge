@@ -1,6 +1,6 @@
 # ❤️ UVA-Online-Judge ❤️
 
-                                               # <3 Dynamic Programming 
+                                                 Dynamic Programming 
 ____________________________________________________________________________________________________________________________________
 
 [10130 - SuperSale](https://github.com/Sohando/UVA-Online-Judge/blob/master/10130%20-%20SuperSale.cpp)
