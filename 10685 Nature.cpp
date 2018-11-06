@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//#define m
+#define M
 #define mx      5007
 int Parent[mx];
 
@@ -11,31 +11,29 @@ void init(int n) {
     }
 }
 
-int parent(int a) {
+int root(int a) {
     if(Parent[a] == a) {
         return a;
     }
-    return Parent[a] = parent(Parent[a]);
+    return Parent[a] = root(Parent[a]);
 }
 
 void unite(int a, int b) {
-    int u = parent(a);
-    int v = parent(b);
 
-    if(u != v) {
-        Parent[a] = v;
-    }
+    Parent[root(b)] = root(a);
 }
 void solve() {
     int n, m;
 
-    while(scanf("%d %d", &n, &m), (n || m)) {
-        getchar();
+    while(scanf("%d %d", &n, &m) == 2 ) {
+        //getchar();
+        //cout << n << " " << m << endl;
+        if( n + m == 0 ) break;
 
-        init(n); //cout  << "foo" << endl;
+        init(n);
         string str;
-        unordered_map <string, int> um;
-        unordered_map <int, int> tm;
+        map <string, int> um;
+        map <int, int> tm;
 
         for(int i = 0; i < n; ++i) {
             cin >> str;
@@ -45,29 +43,28 @@ void solve() {
         string ttr;
         for(int i = 0; i < m; ++i) {
             cin >> str >> ttr;
+
             unite(um[str], um[ttr]);
         }
 
-        //cout << "faa" << endl;
         int Mx  =  -1;
+
         for(int i = 0; i < n; ++i) {
-                //cout << " faa " << endl;
-            Parent[i] = parent(i);
-//cout << "jaa" << endl;
+            Parent[i] = root(i);
+
             tm[Parent[i]]++;
 
             if(tm[Parent[i]] > Mx) {
                 Mx = tm[Parent[i]];
             }
         }
-
         printf("%d\n", Mx);
     }
 }
 
 int main() {
-    #ifdef m
-        freopen("nature.txt", "r", stdin);
+    #ifdef M
+        freopen("natrue.txt", "r", stdin);
     #endif
     solve();
     return 0;
