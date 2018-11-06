@@ -297,3 +297,7 @@ ________________________________________________________________________________
 # Segment Tree
 
 [12086 - Potentiometers](https://github.com/Sohando/UVA-Online-Judge/blob/master/12086%20-%20Potentiometers(SegTree).cpp)
+
+# Disjoint Set Union Find
+
+[10685 Nature](https://github.com/Sohando/UVA-Online-Judge/blob/master/10685%20Nature.cpp)
