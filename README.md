@@ -5,6 +5,8 @@ ________________________________________________________________________________
 
 [10130 - SuperSale](https://github.com/Sohando/UVA-Online-Judge/blob/master/10130%20-%20SuperSale.cpp)
 
+[11137 - Ingenuous Cubrency](https://github.com/Sohando/UVA-Online-Judge/blob/master/11137%20-%20Ingenuous%20Cubrency.cpp)
+
                                                  Super Easy Problems
 _________________________________________________________________________________________________________________________________
 [13034 - Solve Everything :-)](https://github.com/Sohando/UVA-Online-Judge/blob/master/13034%20-%20Solve%20Everything.cpp)
