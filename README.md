@@ -1,5 +1,10 @@
 # ❤️ UVA-Online-Judge ❤️
 
+                                                 Dynamic Programming
+____________________________________________________________________________________________________________________________________
+
+[10130 - SuperSale](https://github.com/Sohando/UVA-Online-Judge/blob/master/10130%20-%20SuperSale.cpp)
+
                                                  Super Easy Problems
 _________________________________________________________________________________________________________________________________
 [13034 - Solve Everything :-)](https://github.com/Sohando/UVA-Online-Judge/blob/master/13034%20-%20Solve%20Everything.cpp)
