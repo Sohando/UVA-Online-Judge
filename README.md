@@ -49,6 +49,7 @@ ________________________________________________________________________________
 
 [11344 - The Huge One](https://github.com/Sohando/UVA-Online-Judge/blob/master/11344%20-%20The%20Huge%20One.cpp)
 
+[457 - Linear Cellular Automata](https://github.com/Sohando/UVA-Online-Judge/blob/master/457%20-%20Linear%20Cellular%20Automata.cpp)
 
                                                       Medium
 __________________________________________________________________________________________________________________________________
