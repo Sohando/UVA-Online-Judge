@@ -306,3 +306,4 @@ ________________________________________________________________________________
 # Disjoint Set Union Find
 
 [10685 Nature](https://github.com/Sohando/UVA-Online-Judge/blob/master/10685%20Nature.cpp)
+[10583 - Ubiquitous Religions](https://github.com/Sohando/UVA-Online-Judge/blob/master/10583%20-%20Ubiquitous%20Religions.cpp)
