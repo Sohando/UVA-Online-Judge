@@ -55,6 +55,7 @@ ________________________________________________________________________________
 
 [11991 - Easy Problem from Rujia Liu?](https://github.com/Sohando/UVA-Online-Judge/blob/master/11991%20-%20Easy%20Problem%20from%20Rujia%20Liu%3F.cpp)
 
+[11360 - Have Fun with Matrices](https://github.com/Sohando/UVA-Online-Judge/blob/master/11360%20-%20Have%20Fun%20with%20Matrices.cpp)
 
                                                       Medium
 __________________________________________________________________________________________________________________________________
