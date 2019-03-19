@@ -57,6 +57,8 @@ ________________________________________________________________________________
 
 [11360 - Have Fun with Matrices](https://github.com/Sohando/UVA-Online-Judge/blob/master/11360%20-%20Have%20Fun%20with%20Matrices.cpp)
 
+[10849 - Move the bishop](https://github.com/Sohando/UVA-Online-Judge/blob/master/10849%20-%20Move%20the%20bishop.cpp)
+
                                                       Medium
 __________________________________________________________________________________________________________________________________
 
